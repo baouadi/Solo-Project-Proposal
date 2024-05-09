@@ -1,5 +1,5 @@
 Project Description:
-Pizza Pete's is a web application designed to streamline the process of ordering pizzas from a fictional pizza restaurant. Users can register, log in, and place orders for their favorite pizzas with ease. The application aims to provide a seamless user experience for pizza enthusiasts, allowing them to customize their orders and track their delivery status.
+Pizza Pete's is a web application designed to streamline the process of ordering pizzas from a fictional pizza restaurant. Users can register, log in, and place orders for their favorite pizzas with ease. The application aims to provide a seamless user experience for pizza enthusiasts, allowing them to customize their orders.
 
 Stack: [JAVA]
 
