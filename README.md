@@ -6,7 +6,7 @@ Stack: [JAVA]
 	* Spring Boot for backend development
 	* Spring Security for user authentication and authorization
 	* MySQL for data storage
-	* HTML/CSS/bootstar for frontend development
+	* HTML/CSS/bootstrap for frontend development
 
 
 Feature List:
