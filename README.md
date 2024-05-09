@@ -14,8 +14,8 @@ Feature List:
   * User Registration: Users can create accounts by providing basic information such as name, email, and password.
   * User Login: Registered users can log in securely to access their accounts and place orders.
   * Pizza Ordering: Users can browse the menu, customize their pizzas with toppings and crust options.
-  * Order Management: Users can view the contents of their oredr before proceeding to checkout.
+  * Order Management: Users can view the contents of their order before proceeding to checkout.
 
 Product Backlog:
 
-	* User Favorite: Allow users to check favorite for pizzas they have ordered.
+	* User Favorite: Allow users to mark pizzas as favorites for easy access and reordering.
