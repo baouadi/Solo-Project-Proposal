@@ -1,0 +1,48 @@
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	background-color: #f8f9fa;
+}
+
+.bigctn{
+	display: flex;
+	justify-content: space-between;
+}
+.error-message {
+	color: red;
+	font-size: 14px;
+	margin-top: 5px;
+}
+
+.row {
+	display: flex;
+}
+
+.col-sm-6 {
+	flex: 1;
+	margin: 0 5px;
+}
+
+.quick {
+	text-align: center;
+	padding: 70px;
+}
+
+.cnt {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 50px;
+	margin: 20px;
+}
+
+h1 {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.bigctn {
+	display: flex;
+	
+	
+}
